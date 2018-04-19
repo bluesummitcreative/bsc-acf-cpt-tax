@@ -88,4 +88,6 @@
 	}
 	add_action( 'init', 'bsc_cpt' );
 
+	add_post_type_support( 'bsc_cpt', 'post-formats' );
+
 ?>
