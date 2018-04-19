@@ -74,7 +74,7 @@
 				'labels' => array('name' => __($new_cpt)),
 				'public' => true,
 				'has_archive' => true,
-				'supports' => array('title', 'editor', 'author', 'thumbnail', 'excerpt', 'revisions')
+				'supports' => array('title', 'editor', 'post-formats', 'author', 'thumbnail', 'excerpt', 'revisions')
 			));
 			
 			$cpt_args = array(
