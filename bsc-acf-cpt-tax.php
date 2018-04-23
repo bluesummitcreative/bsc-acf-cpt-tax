@@ -1,6 +1,6 @@
 <?php
 	 /*
-	   Plugin Name: Blue Summit Creative - Custom Post Types
+	   Plugin Name: ACF Custom Post Types and Taxonomies
 	   Plugin URI: https://www.bluesummitcreative.com
 	   Version: 1.0
 	   Author: Chris Chavez
